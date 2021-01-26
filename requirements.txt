@@ -1,0 +1,3 @@
+chart_studio
+plotly
+chart_studio==1.1.0
