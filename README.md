@@ -7,4 +7,4 @@ In our KMeans class code we decided to implement a method that would allow a use
 We also implemented the elbow method which allows someone using our code to once again access it with ease and have information that just needs a simple look at to determine the optimal k. The plot is easy to read and interpret.
 
 
-2. Code
+
